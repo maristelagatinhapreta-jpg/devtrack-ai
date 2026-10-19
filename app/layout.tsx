@@ -1,11 +1,3 @@
-import type { Metadata } from "next";
-import "./globals.css";
-
-export const metadata: Metadata = {
-  title: "DevTrack AI",
-  description: "Plataforma inteligente para acompanhar sua evolução",
-};
-
 export default function RootLayout({
   children,
 }: {
