@@ -1,36 +1,42 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🤖 DevTrack AI
 
-## Getting Started
+## 📖 Sobre o Projeto
 
-First, run the development server:
+O DevTrack AI é um projeto desenvolvido em TypeScript com o objetivo de organizar, acompanhar e gerenciar atividades relacionadas ao desenvolvimento de software.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+O sistema foi criado para praticar conceitos modernos de desenvolvimento, versionamento de código e organização de projetos.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🎯 Objetivos
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- Praticar TypeScript
+- Organizar tarefas e projetos
+- Aplicar boas práticas de programação
+- Desenvolver soluções estruturadas
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🚀 Tecnologias Utilizadas
 
-## Learn More
+- TypeScript
+- Git
+- GitHub
 
-To learn more about Next.js, take a look at the following resources:
+## ✅ Funcionalidades
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Organização de atividades
+- Controle de tarefas
+- Estruturação de projetos
+- Gerenciamento de desenvolvimento
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 📚 Aprendizados
 
-## Deploy on Vercel
+- TypeScript
+- Controle de versão com Git
+- Organização de código
+- Estruturação de projetos
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 👩‍💻 Autora
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Maristela Costa
+
+📍 Curitiba - PR, Brasil
+
+🔗 GitHub: https://github.com/maristelagatinhapreta-jpg
