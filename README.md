@@ -2,17 +2,17 @@
 
 ## 📖 Sobre o Projeto
 
-O DevTrack AI é um projeto desenvolvido com TypeScript com o objetivo de organizar, acompanhar e gerenciar atividades relacionadas ao desenvolvimento de software.
+O DevTrack AI é um projeto desenvolvido em TypeScript com o objetivo de apoiar a organização, o acompanhamento e o gerenciamento de atividades relacionadas ao desenvolvimento de software.
 
-Este projeto foi criado para praticar conceitos modernos de desenvolvimento, organização de código e gerenciamento de projetos tecnológicos.
+Este projeto foi criado para praticar conceitos modernos de programação, estruturação de projetos e controle de tarefas, contribuindo para o aprimoramento das habilidades em desenvolvimento de software.
 
 ## 🎯 Objetivos
 
-- Praticar TypeScript
-- Desenvolver soluções organizadas e escaláveis
+- Praticar o desenvolvimento com TypeScript
 - Aplicar boas práticas de programação
-- Aprimorar o controle e acompanhamento de tarefas
-- Fortalecer conhecimentos em desenvolvimento de software
+- Organizar e acompanhar atividades de desenvolvimento
+- Melhorar a estruturação de projetos de software
+- Aprimorar conhecimentos em versionamento e documentação
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -20,13 +20,41 @@ Este projeto foi criado para praticar conceitos modernos de desenvolvimento, org
 - Git
 - GitHub
 
+## ⚙️ Instalação
+
+1. Clone o repositório:
+
+```bash
+git clone https://github.com/maristelagatinhapreta-jpg/devtrack-ai.git
+```
+
+2. Acesse a pasta do projeto:
+
+```bash
+cd devtrack-ai
+```
+
+3. Instale as dependências:
+
+```bash
+npm install
+```
+
+4. Execute o projeto:
+
+```bash
+npm run dev
+```
+
+> Caso o projeto ainda esteja em desenvolvimento, alguns comandos ou funcionalidades podem ser adicionados em versões futuras.
+
 ## ✅ Funcionalidades
 
 - Organização de atividades
 - Gerenciamento de tarefas
 - Estruturação de projetos
-- Controle de desenvolvimento
-- Acompanhamento de progresso
+- Controle de progresso
+- Apoio ao desenvolvimento de software
 
 ## 📁 Estrutura do Projeto
 
@@ -35,26 +63,26 @@ devtrack-ai/
 │
 ├── src/
 ├── assets/
-├── README.md
-└── package.json
+├── package.json
+└── README.md
 ```
 
 ## 📚 Aprendizados
 
-Durante o desenvolvimento deste projeto foram praticados conceitos como:
+Durante o desenvolvimento deste projeto foram praticados conceitos de:
 
 - TypeScript
-- Estruturação de projetos
-- Boas práticas de programação
-- Controle de versão com Git
 - Organização de código
+- Estruturação de projetos
+- Controle de versão com Git
+- Documentação técnica
 
-## 💡 Possíveis Melhorias Futuras
+## 🚧 Melhorias Futuras
 
 - Dashboard de acompanhamento
 - Relatórios de produtividade
 - Integração com banco de dados
-- Autenticação de usuários
+- Sistema de autenticação
 - Interface web responsiva
 
 ## 👩‍💻 Autora
@@ -64,3 +92,5 @@ Maristela Costa
 📍 Curitiba - PR, Brasil
 
 🔗 GitHub: https://github.com/maristelagatinhapreta-jpg
+
+
