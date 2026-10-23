@@ -43,6 +43,22 @@ O objetivo principal é proporcionar um ambiente organizado para acompanhar tare
 
 ---
 
+## 📷 Capturas de Tela
+
+### Dashboard
+
+![Dashboard](public/capturas-de-tela/dashboard.png)
+
+### Gerenciamento de Tarefas
+
+![Tarefas](public/capturas-de-tela/tarefas.png)
+
+### Projetos
+
+![Projetos](public/capturas-de-tela/projetos.png)
+
+---
+
 ## 📚 Conhecimentos Aplicados
 
 Durante o desenvolvimento deste projeto foram praticados os seguintes conceitos:
@@ -100,8 +116,8 @@ npm run dev
 
 📍 Curitiba - PR, Brasil
 
-GitHub: [@maristelagatinhapreta-jpg](https://github.com/maristelagatinhapreta-jpg)
+GitHub: [@maristelagatinhapreta-jpg](https:
 
 ---
 
-⭐ Se este projeto for útil para você, considere deixar uma estrela no repositório.
+⭐ Se este projeto foi útil para você, considere deixar uma estrela no repositório.
