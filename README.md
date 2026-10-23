@@ -1,42 +1,107 @@
 # 🤖 DevTrack AI
 
+Sistema desenvolvido com TypeScript para auxiliar na organização, acompanhamento e gerenciamento de atividades relacionadas ao desenvolvimento de software.
+
+---
+
 ## 📖 Sobre o Projeto
 
-O DevTrack AI é um projeto desenvolvido em TypeScript com o objetivo de organizar, acompanhar e gerenciar atividades relacionadas ao desenvolvimento de software.
+O DevTrack AI é uma aplicação criada para praticar conceitos modernos de desenvolvimento, versionamento de código e gerenciamento de projetos.
 
-O sistema foi criado para praticar conceitos modernos de desenvolvimento, versionamento de código e organização de projetos.
+O objetivo principal é proporcionar um ambiente organizado para acompanhar tarefas, estruturar projetos e aplicar boas práticas de programação utilizando tecnologias atuais.
+
+---
 
 ## 🎯 Objetivos
 
-- Praticar TypeScript
-- Organizar tarefas e projetos
+- Aprimorar conhecimentos em TypeScript
 - Aplicar boas práticas de programação
-- Desenvolver soluções estruturadas
+- Desenvolver uma estrutura organizada para gerenciamento de tarefas
+- Praticar controle de versão com Git e GitHub
+- Simular um ambiente de desenvolvimento profissional
+
+---
 
 ## 🚀 Tecnologias Utilizadas
 
 - TypeScript
+- Next.js
+- React
 - Git
 - GitHub
+- CSS
+
+---
 
 ## ✅ Funcionalidades
 
-- Organização de atividades
-- Controle de tarefas
+- 📋 Gerenciamento de tarefas
+- 📁 Organização de projetos
+- 📊 Acompanhamento de atividades
+- 🔍 Estruturação do fluxo de desenvolvimento
+- 💻 Interface moderna e responsiva
+
+---
+
+## 📚 Conhecimentos Aplicados
+
+Durante o desenvolvimento deste projeto foram praticados os seguintes conceitos:
+
+- Desenvolvimento com TypeScript
+- Componentização
 - Estruturação de projetos
-- Gerenciamento de desenvolvimento
-
-## 📚 Aprendizados
-
-- TypeScript
-- Controle de versão com Git
+- Controle de versão
 - Organização de código
-- Estruturação de projetos
+- Boas práticas de desenvolvimento
+
+---
+
+## 🛠️ Como Executar o Projeto
+
+Clone o repositório:
+
+```bash
+git clone https://github.com/maristelagatinhapreta-jpg/devtrack-ai.git
+```
+
+Acesse a pasta do projeto:
+
+```bash
+cd devtrack-ai
+```
+
+Instale as dependências:
+
+```bash
+npm install
+```
+
+Execute o projeto:
+
+```bash
+npm run dev
+```
+
+---
+
+## 📌 Próximas Melhorias
+
+- [ ] Dashboard de produtividade
+- [ ] Integração com Inteligência Artificial
+- [ ] Sistema de usuários
+- [ ] Relatórios de desempenho
+- [ ] Dark Mode
+
+---
 
 ## 👩‍💻 Autora
 
-Maristela Costa
+**Maristela Costa**
 
 📍 Curitiba - PR, Brasil
 
-🔗 GitHub: https://github.com/maristelagatinhapreta-jpg
+GitHub: [@maristelagatinhapreta-jpg](https://github.com/maristelagatinhapreta-jpg)
+
+---
+
+⭐ Se este projeto for útil para você, considere deixar uma estrela no repositório.
