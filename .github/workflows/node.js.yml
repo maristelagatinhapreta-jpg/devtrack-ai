@@ -2,9 +2,9 @@ name: Node.js CI
 
 on:
   push:
-    branches: ["main"]
+    branches: [ "main" ]
   pull_request:
-    branches: ["main"]
+    branches: [ "main" ]
 
 jobs:
   build:
@@ -15,16 +15,14 @@ jobs:
         node-version: [22.x]
 
     steps:
-      - name: Fazer checkout do código
-        uses: actions/checkout@v4
+    - uses: actions/checkout@v4
 
-      - name: Configurar Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: ${{ matrix.node-version }}
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v4
+      with:
+        node-version: ${{ matrix.node-version }}
+        cache: 'npm'
 
-      - name: Instalar dependências
-        run: npm ci
+    - run: npm ci
 
-      - name: Executar Build
-        run: npm run build
+    - run: npm run build
