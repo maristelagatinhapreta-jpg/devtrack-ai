@@ -27,6 +27,9 @@ jobs:
     - name: Instalar Dependências
       run: npm install
 
+    - name: Executar Auditoria de Segurança (npm audit)
+      run: npm audit --audit-level=high
+
     - name: Executar Lint (se houver)
       run: npm run lint --if-present
 
